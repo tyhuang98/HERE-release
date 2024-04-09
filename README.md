@@ -8,7 +8,7 @@ Implementation of the paper:
 
 ```bibtex
 @article{Huang_2024_TPAMI,
-    author       = {Huang, Tianyu and Li, Haoang, Peng, Liangzu and Liu, Yinlong and Liu, Yun-Hui},
+    author       = {Huang, Tianyu and Li, Haoang and Peng, Liangzu and Liu, Yinlong and Liu, Yun-Hui},
     title        = {Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search},
     journal      = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
     year         = {2024}
