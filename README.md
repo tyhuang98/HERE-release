@@ -19,4 +19,4 @@ To apply this algorithm to your data, you may need to adjust the noise_bound (Li
 ```
 
 ## Acknowledgements
-Our code is built on [GORE](https://cs.adelaide.edu.au/~aparra/project/gore/). We thank the authors for their excellent work!
+The Branch-and-Bound algorithm part of our code is built on [GORE](https://cs.adelaide.edu.au/~aparra/project/gore/). We thank the authors for their excellent work!
