@@ -19,4 +19,4 @@ To apply this algorithm to your data, you may need to adjust the noise_bound (Li
 ```
 
 ## Acknowledgements
-Our code is built on [GORE](https://www.fit.vutbr.cz/~ipribyl/DLT-based-PnL/](https://cs.adelaide.edu.au/~aparra/project/gore/). We thank the authors for their excellent work!
+Our code is built on [GORE](https://cs.adelaide.edu.au/~aparra/project/gore/). We thank the authors for their excellent work!
