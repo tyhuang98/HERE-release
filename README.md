@@ -2,7 +2,9 @@
 
 Implementation of the paper:
 
-[Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search] (Early Accepted to T-PAMI 2024).
+[Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search] (T-PAMI 2024).
+
+To apply this algorithm to your data, you may need to adjust the noise_bound (Line-42 in ./demo.cpp) and BRANCH_ACCURACY (Line-22 in ./include/utils.h). For example, smaller BRANCH_ACCURACY leads to higher accuracy but requires more time cost.
 
 ## Citation
 
