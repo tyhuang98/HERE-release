@@ -18,5 +18,9 @@ To apply this algorithm to your data, you may need to adjust the noise_bound (Li
 }
 ```
 
+## Our another work regarding 3D registration
+[Scalable 3D Registration via Truncated Entry-wise Absolute Residuals](https://github.com/tyhuang98/TEAR-release) (CVPR 2024)
+
+
 ## Acknowledgements
 The Branch-and-Bound algorithm part of our code is built on [GORE](https://cs.adelaide.edu.au/~aparra/project/gore/). We thank the authors for their excellent work!
