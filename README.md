@@ -6,6 +6,13 @@ Implementation of the paper:
 
 To apply this algorithm to your data, you may need to adjust the noise_bound (Line-42 in ./demo.cpp) and BRANCH_ACCURACY (Line-22 in ./include/utils.h). For example, smaller BRANCH_ACCURACY leads to higher accuracy but requires more time cost.
 
+## Requirements
+- CMake: 3.22.1
+- Eigen: 3.4.0
+- Boost: 1.65.1
+- PCL: 1.9.1
+- OpenMP: 201511
+
 ## Citation
 
 ```bibtex
